@@ -1,0 +1,26 @@
+.light-blue{
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: rgb(250, 250, 250);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+.card_1{
+    background-color: green;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    color: white;
+
+}
+.card_2{
+    background-color: orange;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    color: white;
+}
+
